@@ -1082,11 +1082,9 @@ header .h-body .motto {
   font-size: 2rem;
   line-height: 2;
   text-align: center;
-  width: 60%;
+  width: 50%;
   margin: 8rem auto;
   color: #fff;
-  border-top: 1px solid #fff;
-  border-bottom: 1px solid #fff;
 }
 header .h-body .motto p {
   text-align: center;

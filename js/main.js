@@ -1,8 +1,7 @@
 /**
- * Main js for hexo-theme-Annie (https://github.com/Sariay/hexo-theme-Annie).
  *
- * @Author   Sariay
- * @DateTime 2018-08-26
+ * @Author   zhangcc
+ * @DateTime 2020-08-07
  */
 jQuery(document).ready(function ($) {
 
